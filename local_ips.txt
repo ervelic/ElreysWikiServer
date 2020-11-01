@@ -1,0 +1,6 @@
+http://localhost
+#For RSS feed to work, replace the URL in line above with actual Site URL domain
+#-----------------------------
+# Add here below the IP's with FULL control.  See Readme.txt
+127.0.0.1
+192.168.10.*
